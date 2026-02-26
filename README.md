@@ -9,7 +9,7 @@
 **本项目尚未完成**，
 开发过程全程使用agent开发，以下为项目起始阶段，agent的部分输出，通过维护md文件来管理项目进度，以及skill.
 
-其中一个教完整的代码的目录为：https://github.com/yahoo17/Agent-RAG 此项目已经跑通
+其中一个教完整的代码的目录为：https://github.com/yahoo17/Agent-RAG-Complete 此项目已经跑通
 <!-- ### ds3.2开发过程
 
 ![Alt text](image.png) -->
